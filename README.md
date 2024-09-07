@@ -1,6 +1,6 @@
-## Hi, I'am Adriana
+# Hi, I'am Adriana
 
-# Computer science student at uepb
+## Computer science student at uepb
 
 ## Estatísticas do GitHub
 
